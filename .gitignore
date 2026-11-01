@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# downloadable from vaastav/Fantasy-Premier-League, caches are rebuilt
+data/
+
+# private notes
+NOTES.md
+docs/design.md
+.bak/
